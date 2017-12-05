@@ -3,11 +3,11 @@
 ######################
 # This configuration file will let you configure the gifts
 # There will be the daily gift
-daily-gift: true
+daily-gift: false
 # There will be the weekly gift
-weekly-gift: true
+weekly-gift: false
 # There will be the monthly gift
-monthly-gift: true
+monthly-gift: false
 # The content of the daily gift, with chances for them
 daily-gift-content:
   items:
